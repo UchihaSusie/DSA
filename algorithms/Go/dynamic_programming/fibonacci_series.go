@@ -1,3 +1,4 @@
+// author: @UchihaSusie
 // algorithms/Go/dynamic_programming/fibonacci_series.go
 package main
 

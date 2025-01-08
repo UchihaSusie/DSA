@@ -1,3 +1,4 @@
+// author: @UchihaSusie	
 // algorithms/Go/dynamic_programming/knapsack.go
 package main
 
@@ -25,6 +26,7 @@ func knapsack(items [][]int, capacity int) int {
     }
     return dp[len(items)][capacity]
 }
+
 
 func max(a, b int) int {
     if a > b {

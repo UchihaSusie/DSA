@@ -1,5 +1,5 @@
+// author: @UchihaSusie
 // algorithms/Go/dynamic_programming/catalan_sequence.go
-// A dynamic programming based function to find nth
 // Catalan number
 
 package main

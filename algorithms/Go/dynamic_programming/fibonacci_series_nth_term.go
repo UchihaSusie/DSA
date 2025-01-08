@@ -1,3 +1,4 @@
+// author: @UchihaSusie
 package main
 
 import (
